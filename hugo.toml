@@ -2,3 +2,8 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'anatole'
+
+[params]
+title = "Hi! I'm Michiel!"
+author = "Michiel Doetjes"
+description = "Placeholder voor michieldoetjes.nl"
